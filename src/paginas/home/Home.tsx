@@ -50,7 +50,7 @@ function Home() {
                     </Box>
                 </Grid>
                 <Grid item xs={6} >
-                    <img src='https://i.imgur.com/H88yIo2.png' alt='' width='500px' height='500px' />
+                    <img src='https://img.freepik.com/vetores-premium/garota-dos-desenhos-animados-atraves-do-telescopio-a-noite_1308-102683.jpg' alt='' width='500px' height='500px' />
                 </Grid>
                 <Grid xs={12} className='postagens'>
                     <TabPostagem />
